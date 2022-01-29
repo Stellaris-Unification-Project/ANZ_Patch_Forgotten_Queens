@@ -1,2 +1,2 @@
-# ANZ_Patch_Forgotten_Queens
-https://steamcommunity.com/sharedfiles/filedetails/?id=2631760849
+Mod Type: Compatibility Patch
+Patch ID: 03
